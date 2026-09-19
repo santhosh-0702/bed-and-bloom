@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://bedandbloom.example/sitemap.xml
+Sitemap: https://santhosh-0702.github.io/bed-and-bloom/sitemap.xml
